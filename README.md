@@ -1,4 +1,4 @@
-# User-Analysis-Project
+# GoogleReview-Analysis-Project
 ### Team Members
 Avi Agrawal, Reed Dickerson, Izzy Parrett, Shivram Ramkumar, Nora Xia, Natalie Yuziuk
 
